@@ -24,7 +24,5 @@ public class AreaEffector : MonoBehaviour {
             EffectorUp.SetActive(true);
             time = 0;
         }
-
-        Debug.Log(time);
 	}
 }
